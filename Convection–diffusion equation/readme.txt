@@ -1,4 +1,4 @@
-This program solves the problem of the Convection вЂ“ diffusion equation.
+This program solves the problem of the "Convection–diffusion equation".
 
 PLEASE, BE PATIENT! IMAGES ARE REQUIRED FROM 30 SECONDS TO MINUTES TO CREATE A GIF
 
